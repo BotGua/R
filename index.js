@@ -11,7 +11,7 @@
 const A187 = 'Akb4r™'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/Kamaadoo_tanjiroo'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6281368965962'; // JANGAN UBAH-UBAH INFO!!!
-const aktif = 'Tergantung jaringan; // JANGAN UBAH-UBAH INFO!!!
+const aktif = 'Tergantung';
 const groupwhatsapp = 'https://chat.whatsapp.com/K4vJLX34mvqIDS7cd05Gfi'; // JANGAN UBAH-UBAH INFO!!!
 const youtube = 'Belum buat'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
