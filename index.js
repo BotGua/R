@@ -58,7 +58,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] AR15BOT ready scan now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] Akb4r™ ready scan now!`);
 });
 
 conn.on('credentials-updated', () =>
@@ -73,7 +73,7 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @_sadboy.ig`))
+conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @kamaadoo_tanjiroo`))
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
@@ -667,7 +667,7 @@ const get = require('got')
     var meninggal = (body[0]['meninggal']);
     var dirawat = (body[0]['dirawat']);
     console.log(body[0]['name'])
-    conn.sendMessage(id,` *🔎DATA WABAH COVID-19 TERBARU DI INDONESIA🔍* \n\n *📈Positif ==>* _${positif}_ \n📉 *Sembuh ==>* _${sembuh}_ \n *📋Meninggal ==>* _${meninggal}_ \n *🗒️Dirawat ==>* _${dirawat}_ `, MessageType.text);
+    conn.sendMessage(id,` *⚠️DATA WABAH COVID-19 TERBARU DI INDONESIA⚠️* \n\n *⚠️Positif ==>* _${positif}_ \n⚠️ *Sembuh ==>* _${sembuh}_ \n *⚠️Meninggal ==>* _${meninggal}_ \n *⚠️Dirawat ==>* _${dirawat}_ `, MessageType.text);
 }
    if (text.includes("#quotes"))
    {
