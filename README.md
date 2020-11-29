@@ -1,4 +1,4 @@
-# 👾AR15BOT👾
+# Akb4r™
 BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
 
 ### Alat dan Bahan
@@ -21,8 +21,8 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/A187ID/AR15BOT
-> cd AR15BOT
+> git clone https://github.com/BotGua/R
+> cd R
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
@@ -75,7 +75,7 @@ Jangan ubah ubah info, Hargai Karya orang lain bro
 jangan cuman modal nama doang
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Youtube Admin`](Tidak Ada)
+* [`Instagram Admin`](https://instagram.com/kamaadoo_tanjiroo)
+* [`WhatsApp Admin `](https://wa.me/+6281368965962)
 
